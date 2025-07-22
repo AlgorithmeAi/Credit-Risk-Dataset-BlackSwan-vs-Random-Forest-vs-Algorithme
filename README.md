@@ -18,8 +18,6 @@ We evaluate them on a held‑out backtest set using AUC‑based metrics, calibra
 - **Source**: Kaggle | `laotse/credit-risk-dataset`  
 - **Description**: Contains customer demographics, loan application details, and repayment status.
 - **Preprocessing**:
-  - Missing values imputed via median (numerical) and mode (categorical).
-  - Categorical features one‑hot encoded.
   - Train/validation/test split: 20% / 0% / 80%.
 
 Directory structure for raw data:
