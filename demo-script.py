@@ -6,7 +6,7 @@ else:
     from algorithme90 import make_population, my_graphic_function, my_function, get_feature_importance, datapoint_to_csv
 from random import choice
 import json
-TARGET_FILE = "../data-room/backtest.csv"
+TARGET_FILE = "data-room/backtest.csv"
 
 POP = make_population(TARGET_FILE)
 
