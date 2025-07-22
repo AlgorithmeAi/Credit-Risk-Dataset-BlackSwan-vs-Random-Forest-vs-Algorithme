@@ -56,10 +56,6 @@ matplotlib  # (hypothetical SDK for BlackSwan)
 ```
 .
 ├── data-room/              # Raw and processed data
-├── src/
-│   ├── algorithme15.py     # 15 Cores BlackSwan Model
-│   ├── algorithme90.py     # 90 Cores BlackSwan Model
-│   └── demo-script.py      # Script for demo the Audit Capabilities of BlackSwan
 ├── results/
 │   └── benchmark.pdf       # Summary of AUC Based Metrics for algorithme90
 ├── tools/
@@ -67,7 +63,11 @@ matplotlib  # (hypothetical SDK for BlackSwan)
 │   ├── plot_model.py       # Plots the AUC Metrics from Augmented Backtest
 │   └── prep-maker.py       # Makes a training and a backtest out of a single .csv file
 ├── requirements.txt
+├── algorithme15.py     # 15 Cores BlackSwan Model
+├── algorithme90.py     # 90 Cores BlackSwan Model
+├── demo-script.py      # Script for demo the Audit Capabilities of BlackSwan
 └── README.md
+
 ```
 
 ## 🛠️ Usage
