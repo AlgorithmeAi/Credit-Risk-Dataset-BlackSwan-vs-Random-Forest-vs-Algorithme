@@ -39,8 +39,8 @@ data-room/
 ### Installation
 
 ```bash
-git clone https://github.com/algorithmeai/credit-risk-comparison.git
-cd credit-risk-comparison
+git clone https://github.com/AlgorithmeAi/Credit-Risk-Dataset-BlackSwan-vs-Random-Forest-vs-Algorithme.git
+cd Credit-Risk-Dataset-BlackSwan-vs-Random-Forest-vs-Algorithme
 ```
 
 `requirements.txt` includes:
